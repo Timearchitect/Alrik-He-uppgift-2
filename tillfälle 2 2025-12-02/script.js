@@ -1,5 +1,5 @@
 //1) variabler
-
+let foo = 5
 
 
 
